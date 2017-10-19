@@ -1,0 +1,2 @@
+# Downloader for SagiCofim AddIn for Revit
+Downloads all [Revit Families](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Model/files/GUID-4EBB97AD-C7B6-4828-91EB-BC0E99B81E43-htm.html) provided by the (broken and permissions hungry) [SagiCofim](https://sagicofim.com/) AddIn for [Revit](https://www.autodesk.eu/products/revit-family/overview).
